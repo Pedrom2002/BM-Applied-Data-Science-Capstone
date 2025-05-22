@@ -58,8 +58,3 @@ The goal is to predict the successful landing of the SpaceX Falcon 9 first stage
 - The **Kennedy Space Center Launch Complex 39A (KSC LC-39A)** exhibits the highest success rate among all analyzed launch sites.  
 - Missions targeting **ES-L1, GEO, HEO, and SSO orbits** have achieved a **100% success rate**, demonstrating exceptional reliability for these orbital destinations.
 
----
-
-*Project by [Your Name]*  
-*Contact: [Your Email or LinkedIn]*  
-
